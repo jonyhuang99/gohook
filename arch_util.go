@@ -7,7 +7,7 @@ import (
 	"math"
 	"unsafe"
 
-	"golang.org/x/arch/x86/x86asm"
+	"github.com/golang/arch/x86/x86asm"
 )
 
 type CodeFix struct {
